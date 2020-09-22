@@ -1,0 +1,25 @@
+{
+  "listItem": [
+    {
+      "imgSrc": "/assets/img/profile/message.svg"
+    },
+    {
+      "imgSrc": "/assets/img/profile/shopping.svg"
+    },
+    {
+      "imgSrc": "/assets/img/profile/vip.svg"
+    },
+    {
+      "imgSrc": "/assets/img/profile/collection.svg"
+    },
+    {
+      "imgSrc": "/assets/img/profile/favorites.svg"
+    },
+    {
+      "imgSrc": "/assets/img/profile/conditions.svg"
+    },
+    {
+      "imgSrc": "/assets/img/profile/extension.svg"
+    }
+  ]
+}
